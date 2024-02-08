@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Frank
+- I am a software engineer who is specialized in fullstack web development.
+- At the moment, I m in huge love with the Javascript ecosystem, and I really enjoy developing projects in React and Node.js.
+- But I am also good with Java and Python.
+- My Personal Website if you want to learn more about me: https://yufei-frank-yang.vercel.app/
+
 
 <!--
 **FrankYufeiYang/FrankYufeiYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
