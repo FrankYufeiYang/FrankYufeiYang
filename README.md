@@ -2,7 +2,7 @@
 - I am a software engineer who is specialized in fullstack web development.
 - At the moment, I m in huge love with the Javascript ecosystem, and I really enjoy developing projects in React and Node.js.
 - But I am also good at Java and Python.
-- My Personal Website if you want to learn more about me: https://yufei-frank-yang.vercel.app/
+- Check my [Personal Website](https://yufei-frank-yang.vercel.app/) if you want to learn more about me.
 
 
 <!--
